@@ -1,6 +1,6 @@
 # SuperAltTabSwitcher
 
-SuperAltTabSwitcher replaces Windows Alt + Tab into a powerful, customizable tool with classic Windows/macOS-style switching that boosts productivity and accessibility.
+Improve Windows Alt Tab with a fast, lightweight, and customizable window switcher. Designed for productivity & accessibility, with classic layouts that are fully customizable.
 
 This repository hosts the public releases only.
 
