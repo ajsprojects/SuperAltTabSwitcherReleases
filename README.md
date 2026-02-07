@@ -10,7 +10,7 @@ Visit [SuperAltTabSwitcher.com](https://superalttabswitcher.com) for more inform
 
 ## Download
 
-**[Download Latest Version](https://github.com/ajsprojects/SuperAltTabSwitcherReleasesLive/releases/download/v1.0.0/SuperAltTabSwitcher-Setup-v1.0.0.exe)**
+**[Download Latest Version](https://github.com/ajsprojects/SuperAltTabSwitcherReleases/releases/download/v1.0.1/SuperAltTabSwitcher-Setup-v1.0.1.exe)**
 
 ## Support
 
